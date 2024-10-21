@@ -2,3 +2,10 @@ h1 {
     background-color: brown;
     color: aliceblue;
 }
+
+.square {
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
